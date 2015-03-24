@@ -1,0 +1,23 @@
+{
+	"auth": {
+		"username": "example@gmail.com",
+		"password": "supersecret"
+	},
+	"sheet": {
+		"name": "some name",
+		"id": "1N6wFr_G4BlDEPl5Gb9vhyIPOYibH9JwLYzE7mL-ZyoU",
+		"worksheet": {
+			"name": "Sheet1",
+			"id": "of5"
+		}
+	},
+	"mapping": {
+		"columns":[
+			["1", "brand"],
+			["2", "model"],
+			["3", "customer"],
+			["4", "status"],
+			["5", "due_date"]
+		]
+	}
+}

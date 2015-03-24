@@ -1,0 +1,14 @@
+{
+  "name": "GQL",
+  "description": "Query handler for Google Spreedsheets",
+  "version": "0.1.0",
+  "author": "Ramon Gebben <ramon@ra-ge.net>",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "colors": "^1.0.3",
+    "edit-google-spreadsheet": "^0.2.16",
+    "lodash": "^3.1.0"
+  }
+}
